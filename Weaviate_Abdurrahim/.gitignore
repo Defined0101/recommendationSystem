@@ -1,0 +1,4 @@
+data
+id_text.parquet
+recipe_data_gpu0.npz
+recipe_data_gpu1.npz
